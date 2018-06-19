@@ -55,6 +55,8 @@ massive({
 
 ### Step 8: Create a SQL Repository
 
+[Massive JS Function Docs](https://dmfay.github.io/massive-js/functions.html)
+
 massive-js works by converting your SQL queries, held in files, into JS functions.
 
 For example, the following file, held in the `./db` directory of your project:
