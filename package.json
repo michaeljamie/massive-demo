@@ -15,7 +15,7 @@
   "license": "ISC",
   "homepage": "https://github.com/kendagriff/massive-demo",
   "dependencies": {
-    "body-parser": "^1.13.3",
+    "body-parser": "^1.19.0",
     "cors": "^2.7.1",
     "express": "^4.13.3",
     "massive": "^4.6.3"
